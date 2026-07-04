@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+projeto/dados/bow_motor1.csv
+projeto/dados/tfidf_motor1.csv
+projeto/dados/noticias_motor1_processado.csv

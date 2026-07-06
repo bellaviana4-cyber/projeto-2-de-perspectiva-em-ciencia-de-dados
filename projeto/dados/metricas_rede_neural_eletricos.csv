@@ -1,0 +1,13 @@
+métrica,valor
+acurácia,0.8434
+acurácia balanceada,0.8416
+precisão,0.7695
+vpp,0.7695
+vpn,0.8944
+sensibilidade_recall,0.8344
+especificidade,0.8488
+f1_score,0.8007
+roc_auc_curva_roc,0.9196
+average_precision_curva_pr,0.897
+fpr_taxa_falso_positivo,0.1512
+fnr_taxa_falso_negativo,0.1656

@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "jupyterlab>=4.5.8",
+    "mapie>=1.4.1",
     "matplotlib>=3.10.9",
     "nltk>=3.9.4",
     "notebook>=7.5.7",

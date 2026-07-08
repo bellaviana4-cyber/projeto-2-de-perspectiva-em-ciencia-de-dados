@@ -1,0 +1,7 @@
+cluster,n_noticias,top_palavras_regressao,top_palavras_tfidf_etapa2
+0,1600,"picape, geracao, suv, novo, nova, deve, ford, bronco","novo, geracao, nova, suv, picape, brasil, cv, versao"
+1,379,"vw, 00, fiat, chevrolet, 10, hyundai, 18, 20","00, vw, fiat, chevrolet, toyota, 10, unidades, ford"
+2,356,"honda, moto, yamaha, civic, city, motos, mm, hr","honda, moto, mm, yamaha, civic, motos, nova, brasil"
+3,217,"bmw, serie, x1, gs, 950, motorrad, x5, i3","bmw, serie, gs, x1, novo, motorrad, cv, nova"
+4,1023,"990, km, versao, precos, versoes, kgfm, automatico, cv","versao, 990, cv, km, motor, versoes, kgfm, automatico"
+5,1925,"carros, veiculos, carro, ferrari, producao, milhoes, anos, porsche","carros, veiculos, carro, brasil, producao, unidades, anos, marca"

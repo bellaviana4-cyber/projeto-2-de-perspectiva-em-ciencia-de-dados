@@ -1,0 +1,11 @@
+marca_real,marca_prevista_erroneamente,qtd
+volkswagen,ferrari,11
+volkswagen,audi,10
+bmw,ferrari,9
+toyota,kia,9
+volkswagen,byd,9
+hyundai,kia,9
+nissan,byd,6
+volkswagen,chevrolet,6
+chevrolet,byd,6
+bmw,honda,5

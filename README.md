@@ -1,6 +1,6 @@
 # Cobertura de imprensa e a transição elétrica: uma análise do Motor1 UOL entre 2016 e 2026
 
-Projeto acadêmico desenvolvido em dupla para a disciplina **Perspectiva em Ciência de Dados**, com foco na análise de notícias automotivas publicadas pelo site **Motor1 UOL** entre 2016 e 2026.
+Projeto acadêmico desenvolvido por Isabella Viana e Murilo Cassiavilani para a disciplina **Perspectiva em Ciência de Dados** sob a orientação do professor Thiago Rodrigo Ramos, com foco na análise de notícias automotivas publicadas pelo site **Motor1 UOL** entre 2016 e 2026.
 
 O objetivo central do trabalho é investigar como a cobertura jornalística sobre o setor automotivo brasileiro acompanhou a transição para veículos eletrificados, especialmente a presença de temas como carros elétricos, híbridos, SUVs, direção autônoma, diesel e marcas automotivas ao longo do tempo.
 

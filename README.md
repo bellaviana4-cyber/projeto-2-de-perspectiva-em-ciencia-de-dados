@@ -159,7 +159,6 @@ Foram utilizadas técnicas de representação textual, redução de dimensionali
 
 - O agrupamento não supervisionado encontrou clusters que coincidem parcialmente com os termos de elétrico e híbrido.
 - Esse resultado reforça que a lista de termos usada na análise temporal captura um agrupamento temático real dentro do conjunto de notícias.
-- A análise também revelou um tópico fora da lista original: a cobertura de **Fórmula 1**. Isso reforça a validade do método, pois o algoritmo foi capaz de identificar um tema relevante sem receber essa informação previamente.
 - O coeficiente de silhueta ficou baixo, em torno de 0,06 a 0,08. Essa limitação é esperada para textos jornalísticos de um mesmo nicho, pois as notícias compartilham vocabulário semelhante e os grupos não são completamente separados.
 
 Os clusters não devem ser interpretados como categorias rígidas, mas como evidências de padrões textuais presentes na base.
